@@ -1,5 +1,5 @@
-train: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_model_helmet_detection/train/images
-val: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_model_helmet_detection/val/images
+train: ./train/images
+val: ./val/images
 
 nc: 4
 
